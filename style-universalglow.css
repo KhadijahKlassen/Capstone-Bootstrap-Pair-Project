@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+/* Image Spacing  */
+
+/* styles.css */
+.btn-outline-secondary {
+    color: black;
+    background-color: #FD5D3D;
+    border-color: #FD5D3D;
+    font-size: 1.5rem;
+    padding: 12px 24px;
+  }
+  
+  .btn-orange:hover {
+    background-color: #FD5D3D;
+    color: #fff;
+  }
+  
+
+/* Logo Font  */
+
+#logo a {
+  color: #FD5D3D; 
+  font-family: 'Dancing Script', cursive, sans-serif; 
+  font-size: 60px;
+  font-weight: bold;
+  text-decoration: none; 
+}
+
+.color {
+  color: black !important; 
+}
+
+/* Orange Underlined Secton  */
+/* About Section Underline */
+
+#about h2.display-4 {
+    border-bottom: 2px solid #FD5D3D; 
+  }
+
+/* Services Section Underline  */
+#services h2.display-4 {
+    border-bottom: 2px solid #FD5D3D; 
+
+  }
+
+  /* Reviews Section Underlined  */
+  #reviews h2.display-4 {
+    border-bottom: 2px solid #FD5D3D; 
+
+  }
+
+  /* Contact Us Sectioned Underlined */
+
+  #contact {
+  text-align: center;
+}
+
+#contact:after {
+  content: '';
+  display: block;
+  width: 220px; 
+  height: 3px;
+  background-color: #FD5D3D;
+  margin: 10px auto; 
+}
+
+
+  /* Contact Us Section Underlined  */
+
+  /* About Section  */
+  
+
+  /* Contact Us  */
+
+  #submitButton {
+    background-color: #FD5D3D;
+    color: white;
+    border: none;
+  }
+  
+  #submitButton:hover {
+    background-color: #FD5D3D; 
+  }
+  
+  /* Footer  */
+
+  #footer {
+    text-align: center;
+    background-color: #FD5D3D;
+  }
+
+  #footer p {
+    text-align: center;
+  }
+
+  .appearances {
+    font-weight: normal;
+  }
